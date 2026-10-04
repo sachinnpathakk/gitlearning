@@ -1,1 +1,1 @@
-Hello world 
+Today i have revise the things that i already knew like cd, ls , git add filename ,git commit -m" Message" ,git push origin main .
